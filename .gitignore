@@ -35,7 +35,7 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
-__test__/
+__tests__/
 
 android/
 ios/
